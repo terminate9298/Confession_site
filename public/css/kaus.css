@@ -1,0 +1,235 @@
+@media (min-width: 920px){
+.side-padding{
+	padding: 0px 55px 0px 55px;
+}	
+.outer-photo{
+	margin: 0px;
+	height: 400px;
+	
+}
+.inner-div{
+	padding-top: 10px; 
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.confession-heading-number{
+	font-family: 'Gamja Flower', 
+	cursive; color: #fff;
+	font-size: 39px;
+}
+.confession-heading-body{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 23px;
+}
+.modal-main{
+	padding-right: 0px;
+}
+.modal-pattern{
+	min-height: 400px;
+	margin-top: -20px;
+}
+.modal-heading{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 39px;
+}
+.modal-heading-body{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 35px;
+}
+.modal-comments{
+	padding-left: 0px;
+	padding-bottom:10px;
+}
+.modal-comm-inner{
+	height: 390px;
+	margin-left: 0px;
+	overflow-y: scroll;
+	padding-bottom: 10px;
+}
+.modal-comments-title{
+	display: inline;
+	padding-left: 2px;
+}
+.modal-comments-body{
+	padding-top: 2px; 
+	padding-left: 15px;
+	padding-right: 2px;
+}
+.modal-comments-body-heading{
+	display: inline;
+	color: #000;
+	word-wrap: break-word;
+}
+.modal-comments-body-other{
+	color: #3f3f3f; 
+	font-size: 13px;
+	word-wrap: break-word;
+}
+}
+
+@media (max-width: 920px){
+.side-padding{
+	padding: 0px 20px 0px 20px;
+}
+.outer-photo{
+	margin: 0px;
+	height: 200px;
+	
+}
+.inner-div{
+	padding-top: 10px; 
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.confession-heading-number{
+	font-family: 'Gamja Flower', 
+	cursive; color: #fff;
+	font-size: 39px;
+	margin:0px auto;
+}
+.confession-heading-body{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 25px;
+	margin-top: 2px;
+}
+.modal-main{
+	padding-right: 0px;
+}
+.modal-pattern{
+	min-height: 400px;
+	margin-top: -20px;
+}
+.modal-heading{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 39px;
+}
+.modal-heading-body{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 35px;
+}
+.modal-comments{
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+.modal-comm-inner{
+	height: 390px;
+	margin-left: 0px;
+	overflow-y: scroll;
+	padding-bottom: 10px;
+}
+.modal-comments-title{
+	display: inline;
+	padding-left: 2px;
+}
+.modal-comments-body{
+	padding-top: 2px; 
+	padding-left: 15px;
+	padding-right: 2px;
+}
+.modal-comments-body-heading{
+	display: inline;
+	color: #000;
+	word-wrap: break-word;
+}
+.modal-comments-body-other{
+	color: #3f3f3f; 
+	font-size: 13px;
+	word-wrap: break-word;
+}
+}
+@media (max-width: 480px){
+.side-padding{
+	padding: 0px 10px 0px 10px;
+}
+.outer-photo{
+	margin: 0px;
+	height: 150px;
+	
+}
+.inner-div{
+	padding-top: 10px; 
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.confession-heading-number{
+	font-family: 'Gamja Flower', 
+	cursive; color: #fff;
+	font-size: 39px;
+	margin:0px auto;
+}
+.confession-heading-body{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 15px;
+	margin-top: 2px;
+}
+.modal-main{
+	padding-right: 0px;
+}
+.modal-pattern{
+	min-height: 400px;
+	margin-top: -20px;
+}
+.modal-heading{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 39px;
+}
+.modal-heading-body{
+	font-family: 'Gamja Flower', cursive; 
+	color: #fff;
+	font-size: 35px;
+}
+.modal-comments{
+	padding-left: 0px;
+	padding-bottom: 10px;
+}
+.modal-comm-inner{
+	height: 390px;
+	margin-left: 0px;
+	overflow-y: scroll;
+	padding-bottom: 10px;
+}
+.modal-comments-title{
+	display: inline;
+	padding-left: 2px;
+}
+.modal-comments-body{
+	padding-top: 2px; 
+	padding-left: 15px;
+	padding-right: 2px;
+}
+.modal-comments-body-heading{
+	display: inline;
+	color: #000;
+	word-wrap: break-word;
+}
+.modal-comments-body-other{
+	color: #3f3f3f; 
+	font-size: 13px;
+	word-wrap: break-word;
+}	
+}
+.form-content
+{
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #0062cc;
+    color: #fff;
+}
