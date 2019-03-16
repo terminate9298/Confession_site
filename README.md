@@ -4,6 +4,5 @@ Complete confession site where new confession can be upload in every 5 minutes a
 Option to upload confession and comment on any confession and confessions are non editable and non Deletable.
 Not Available for preview.
 
-Framework - Codeignitor.
+Framework - Codeignitor  .
 Languages - Html , Css , Js , PHP , MySQL
-
